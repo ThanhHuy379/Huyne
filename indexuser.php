@@ -102,6 +102,7 @@ if (isset($_GET['action']) && $_GET['action'] == 'logout') {
                         <form action="#">
                             <input type="text" name="search" placeholder="Nhập sản phẩm cần tìm.">
                             <button type="submit" class="site-btn">TÌM</button>
+                            <button type="submit" class="site-btn">TÌM</button>
                         </form>
                     </div>
                 </div>
