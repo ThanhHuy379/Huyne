@@ -58,7 +58,7 @@ if (isset($_POST['submit']) && $_POST['submit']) {
     <link rel="stylesheet" type="text/css" href="../vendor/css-hamburgers/hamburgers.min.css">
     <link rel="stylesheet" type="text/css" href="../vendor/select2/select2.min.css">
     <link rel="stylesheet" type="text/css" href="../css/util.css">
-    <link rel="stylesheet" type="text/css" href="../css/main_long.css">
+    <link rel="stylesheet" type="text/css" href="../css/main_long1.css">
     <title>Đăng nhập</title>
 </head>
 
@@ -67,7 +67,7 @@ if (isset($_POST['submit']) && $_POST['submit']) {
         <div class="container-login100">
             <div class="wrap-login100">
                 <div class="login100-pic js-tilt" data-tilt>
-                    <img src="../img/img-02.png" alt="IMG">
+                    <img src="../img/logobr.jpg" alt="IMG">
                 </div>
 
                 <form class="login100-form validate-form" method="post">

@@ -26,7 +26,7 @@ if (isset($_GET['action']) && $_GET['action'] == 'logout') {
     <link rel="stylesheet" href="./css/font-awesome.min.css" type="text/css">
     <link rel="stylesheet" href="./css/jquery-ui.min.css" type="text/css">
     <link rel="stylesheet" href="./css/owl.carousel.min.css" type="text/css">
-    <link rel="stylesheet" href="./css/xemsanpham.css" type="text/css">
+    <link rel="stylesheet" href="./css/xemsanpham12.css" type="text/css">
 
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
@@ -48,7 +48,7 @@ if (isset($_GET['action']) && $_GET['action'] == 'logout') {
                     <div class="col-lg-8 col-md-6">
                         <div class="header__top__left">
                             <ul>
-                                <li style="font-family: Cairo, sans-serif; font-size: 15px;"><i class="fa fa-envelope"></i> shopmyphamNumberTwo@gmail.com</li>
+                                <li style="font-family: Cairo, sans-serif; font-size: 15px;"><i class="fa fa-envelope"></i> BanhMiOMi@gmail.com</li>
                                 <li style="font-family: Cairo, sans-serif; font-size: 15px;">Miễn phí vận chuyển khi
                                     đăng ký thành viên</li>
                             </ul>
@@ -108,6 +108,22 @@ if (isset($_GET['action']) && $_GET['action'] == 'logout') {
 
         <div class="container">
             <div class="row">
+        
+                <div class="col-lg-3">
+                    <div class="header__logo">
+                        <a href="./index.php"><img src="./img/logobr.jpg" alt=""></a>
+                    </div>
+                </div>
+
+                <div class="hero__search">
+                    <div class="hero__search__form">
+                        <form action="#">
+                            <input type="text" name="search" placeholder="Nhập sản phẩm cần tìm.">
+                            <button type="submit" class="site-btn">TÌM</button>
+                        </form>
+                    </div>
+                </div>
+
                 <div class="col-lg-12">
                     <nav class="header__menu">
                         <ul>
@@ -146,7 +162,7 @@ if (isset($_GET['action']) && $_GET['action'] == 'logout') {
 
 
     <!-- Breadcrumb Section Begin -->
-    <section class="breadcrumb-section set-bg" data-setbg="img/breadcrumb.jpg">
+    <section class="breadcrumb-section set-bg" data-setbg="img/banner1.jpg">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
@@ -189,7 +205,7 @@ if (isset($_GET['action']) && $_GET['action'] == 'logout') {
                     <div class="contact__widget">
                         <span class="icon_mail_alt"></span>
                         <h4>Email</h4>
-                        <p>shopmyphamNumberTwo@gmail.com</p>
+                        <p>BanhMiOMi@gmail.com</p>
                     </div>
                 </div>
             </div>
@@ -248,7 +264,7 @@ if (isset($_GET['action']) && $_GET['action'] == 'logout') {
                 <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="footer__about">
                         <div class="footer__about__logo" style="line-height: 150px">
-                            <a href="./index.html"><img src="img/img-02logo.png" alt=""></a>
+                            <a href="./index.html"><img src="img/logobr.jpg" alt=""></a>
                         </div>
                     </div>
                 </div>
@@ -271,7 +287,7 @@ if (isset($_GET['action']) && $_GET['action'] == 'logout') {
                             <ul style="list-style-type: none; color: #333">
                                 <li>Address: 12 Nguyễn Văn Bảo</li>
                                 <li>Phone: 09.8888.9898</li>
-                                <li>Email: shopmyphamNumberTwo@gmail.com</li>
+                                <li>Email: BanhMiOMi@gmail.com</li>
                             </ul>
                         </div>
                     </div>

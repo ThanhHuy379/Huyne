@@ -2,7 +2,7 @@
 $server = "localhost";
 $username = "root";
 $password = "";
-$database = "mypham";
+$database = "banhmi";
 $conn = mysqli_connect($server, $username, $password, $database);
 if (!$conn) {
     die("Kết nối không thành công: " . mysqli_connect_error());
@@ -148,7 +148,7 @@ if (isset($_GET['action']) && $_GET['action'] == 'logout') {
     <link rel="stylesheet" href="../css/bootstrap.min.css" type="text/css">
     <link rel="stylesheet" href="../css/font-awesome.min.css" type="text/css">
     <link rel="stylesheet" href="../css/jquery-ui.min.css" type="text/css">
-    <link rel="stylesheet" href="../css/home.css" type="text/css">
+    <link rel="stylesheet" href="../css/home1.css" type="text/css">
     <title>Cập nhật thông tin cá nhân</title>
 </head>
 

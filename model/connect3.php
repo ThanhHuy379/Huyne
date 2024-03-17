@@ -1,7 +1,7 @@
 <?php
      class KetNoiDB{
         function moKetNoi(& $conn){
-            $conn = mysqli_connect("localhost", "root", "", "mypham");
+            $conn = mysqli_connect("localhost", "root", "", "banhmi");
             if ($conn){
                 mysqli_set_charset($conn, "utf8");
                 return $conn;

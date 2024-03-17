@@ -84,9 +84,9 @@ ol {
 	left: 0;
 	bottom: -15px;
 	right: 0;
-	height: 4px;
-	width: 80px;
-	background: #FFBFCC;
+	height: 9px;
+	width: 100px;
+	background: #E84A5F;
 	content: "";
 	margin: 0 auto;
 }
@@ -124,7 +124,7 @@ ol {
 	color: #ffffff;
 	text-transform: uppercase;
 	font-weight: 700;
-	background: #FFBFCC;
+	background: #E84A5F;
 	letter-spacing: 2px;
 }
 
@@ -135,7 +135,7 @@ ol {
 	text-transform: uppercase;
 	display: inline-block;
 	padding: 13px 30px 12px;
-	background: #FFBFCC;
+	background: #E84A5F;
 	border: none;
 }
 
@@ -148,7 +148,7 @@ ol {
 	top: 0;
 	left: 0;
 	z-index: 999999;
-	background: pink;
+	background: #F0E68C;
 }
 
 .loader {
@@ -207,7 +207,7 @@ ol {
   Header
 -----------------------*/
 .header__top {
-	background: #FFE0ED;
+	background: #F0E68C;
 }
 
 .header__top__left {
@@ -290,9 +290,9 @@ ol {
 }
 
 .header__menu {
-	padding: 20px 0;
+	padding: 10px 0;
 	text-align: center;
-	background-color: white;
+	background-color: #EEE8AA;
 	list-style-type: none;
 	text-decoration: none;
 }
@@ -349,7 +349,7 @@ ol {
 }
 
 .header__menu ul li:hover>a {
-	color: #AF8B87;
+	color: white;
 }
 
 .header__menu ul li:last-child {
@@ -358,7 +358,7 @@ ol {
 
 .header__menu ul li a {
 	font-size: 14px;
-	color: #252525;
+	color: #E84A5F;
 	text-transform: uppercase;
 	font-weight: 700;
 	letter-spacing: 2px;
@@ -602,16 +602,16 @@ ol {
 }
 
 .hero__text span {
-	font-size: 14px;
+	font-size: 20px;
 	text-transform: uppercase;
 	font-weight: 700;
 	letter-spacing: 4px;
-	color: #FFBFCC;
+	color: rgb(255, 255, 165);
 }
 
 .hero__text h2 {
 	font-size: 46px;
-	color: #252525;
+	color: white;
 	line-height: 52px;
 	font-weight: 700;
 	margin: 10px 0;
@@ -662,7 +662,7 @@ ol {
 
 .featured__item {
 	margin-bottom: 50px;
-	border: 1px solid pink;
+	border: 1px solid red;
 	padding: 10px;
 
 }
@@ -703,8 +703,8 @@ ol {
 }
 
 .featured__item__pic__hover li:hover a {
-	background: pink;
-	border-color: pink;
+	background: #FF6347;
+	border-color: #F0E68C;
 }
 
 .featured__item__pic__hover li:hover a i {
@@ -743,6 +743,7 @@ ol {
 .featured__item__text {
 	text-align: center;
 	padding-top: 15px;
+	background-color: #FFFFE0;
 }
 
 .featured__item__text h6 {
@@ -763,7 +764,7 @@ ol {
   Footer
 -----------------------*/
 .footer {
-	background: #FFE0ED;
+	background: #F0E68C;
 	padding-top: 10px;
 	padding-bottom: 10px;
 }
@@ -1003,7 +1004,7 @@ ol {
 		-webkit-border-radius: 0;
 		border-radius: 0;
 		background: transparent;
-		color: #E18AAC;
+		color: #E84A5F;
 	}
 	.humberger__menu__wrapper .slicknav_nav .slicknav_row,
 	.humberger__menu__wrapper .slicknav_nav a {

@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="./css/font-awesome.min.css" type="text/css">
     <link rel="stylesheet" href="./css/jquery-ui.min.css" type="text/css">
     <link rel="stylesheet" href="./css/owl.carousel.min.css" type="text/css">
-    <link rel="stylesheet" href="./css\/xemsanpham.css" type="text/css">
+
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
 
@@ -32,7 +32,7 @@
 
 
     <!-- Breadcrumb Section Begin -->
-    <section class="breadcrumb-section set-bg" data-setbg="img/breadcrumb.jpg">
+    <section class="breadcrumb-section set-bg" data-setbg="img/banner1.jpg">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
@@ -75,7 +75,7 @@
                 <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="footer__about">
                         <div class="footer__about__logo" style="line-height: 150px">
-                            <a href="./index.html"><img src="img/img-02logo.png" alt=""></a>
+                            <a href="./index.html"><img src="img/logobr.jpg" alt=""></a>
                         </div>
                     </div>
                 </div>
@@ -98,7 +98,7 @@
                             <ul style="list-style-type: none; color: #333">
                                 <li>Address: 12 Nguyễn Văn Bảo</li>
                                 <li>Phone: 09.8888.9898</li>
-                                <li>Email: shopmyphamNumberTwo@gmail.com</li>
+                                <li>Email: BanhMiOMi@gmail.com</li>
                             </ul>
                         </div>
                     </div>
@@ -109,7 +109,7 @@
                     style="text-align: center !important; border-top: 1px solid #ccc; margin: 15px 0 0 0">
                     <div class="footer__copyright">
                         <div class="footer__copyright__text" style="width: 100%; margin: 10px 0px 0 4%">
-                            <p> Copyright &copy; NumberTwo</p>
+                            <p> Copyright &copy; BanhMiOMi</p>
                         </div>
                     </div>
                 </div>

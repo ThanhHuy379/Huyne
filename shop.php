@@ -25,7 +25,7 @@ if (isset($_GET['action']) && $_GET['action'] == 'logout') {
     <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
     <link rel="stylesheet" href="css/font-awesome.min.css" type="text/css">
     <link rel="stylesheet" href="css/jquery-ui.min.css" type="text/css">
-    <link rel="stylesheet" href="css/home.css" type="text/css">
+    <link rel="stylesheet" href="css/home1.css" type="text/css">
 </head>
 
 <body>
@@ -43,7 +43,7 @@ if (isset($_GET['action']) && $_GET['action'] == 'logout') {
                         <div class="header__top__left">
                             <ul>
                                 <li style="font-family: Cairo, sans-serif; font-size: 15px;"><i
-                                        class="fa fa-envelope"></i> shopmyphamNumberTwo@gmail.com</li>
+                                        class="fa fa-envelope"></i> BanhMiOMi@gmail.com</li>
                                 <li style="font-family: Cairo, sans-serif; font-size: 15px;">Miễn phí vận chuyển khi
                                     đăng ký thành viên</li>
                             </ul>
@@ -107,7 +107,7 @@ if (isset($_GET['action']) && $_GET['action'] == 'logout') {
 
                 <div class="col-lg-3">
                     <div class="header__logo">
-                        <a href="./index.php"><img src="./img/logo.png" alt=""></a>
+                        <a href="./index.php"><img src="./img/logobr.jpg" alt=""></a>
                     </div>
                 </div>
 
@@ -286,7 +286,7 @@ if (isset($_GET['action']) && $_GET['action'] == 'logout') {
                 <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="footer__about">
                         <div class="footer__about__logo" style="line-height: 150px">
-                            <a href="./index.html"><img src="img/img-02logo.png" alt=""></a>
+                            <a href="./index.html"><img src="img/logobr.jpg" alt=""></a>
                         </div>
                     </div>
                 </div>
@@ -309,7 +309,7 @@ if (isset($_GET['action']) && $_GET['action'] == 'logout') {
                             <ul style="list-style-type: none; color: #333">
                                 <li>Address: 12 Nguyễn Văn Bảo</li>
                                 <li>Phone: 09.8888.9898</li>
-                                <li>Email: shopmyphamNumberTwo@gmail.com</li>
+                                <li>Email: BanhMiOMi@gmail.com</li>
                             </ul>
                         </div>
                     </div>
@@ -320,7 +320,7 @@ if (isset($_GET['action']) && $_GET['action'] == 'logout') {
                     style="text-align: center !important; border-top: 1px solid #ccc; margin: 15px 0 0 0">
                     <div class="footer__copyright" ">
                         <div class=" footer__copyright__text" style="width: 100%; margin: 10px 0px 0 4%">
-                        <p> Copyright &copy; NumberTwo</p>
+                        <p> Copyright &copy; BanhMiOMi</p>
                     </div>
                 </div>
             </div>

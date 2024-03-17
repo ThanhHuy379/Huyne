@@ -26,7 +26,7 @@ if (isset($_GET['action']) && $_GET['action'] == 'logout') {
     <link rel="stylesheet" href="./css/font-awesome.min.css" type="text/css">
     <link rel="stylesheet" href="./css/jquery-ui.min.css" type="text/css">
     <link rel="stylesheet" href="./css/owl.carousel.min.css" type="text/css">
-    <link rel="stylesheet" href="./css/xemsanpham.css" type="text/css">
+    <link rel="stylesheet" href="./css/xemsanpham12.css" type="text/css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
     <!-- Bạn có thể thêm dòng sau vào phần head của trang web -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -106,7 +106,7 @@ if (isset($_GET['action']) && $_GET['action'] == 'logout') {
 
                 <div class="col-lg-3">
                     <div class="header__logo">
-                        <a href="./indexuser.php"><img src="./img/logo.png" alt=""></a>
+                        <a href="./indexuser.php"><img src="./img/logobr.jpg" alt=""></a>
                     </div>
                 </div>
 
@@ -117,7 +117,6 @@ if (isset($_GET['action']) && $_GET['action'] == 'logout') {
                             <button type="submit" class="site-btn">TÌM</button>
                         </form>
                     </div>
-
                 </div>
 
                 <div class="col-lg-12">

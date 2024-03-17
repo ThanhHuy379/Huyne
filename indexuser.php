@@ -30,7 +30,7 @@ if (isset($_GET['action']) && $_GET['action'] == 'logout') {
     <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
     <link rel="stylesheet" href="css/font-awesome.min.css" type="text/css">
     <link rel="stylesheet" href="css/jquery-ui.min.css" type="text/css">
-    <link rel="stylesheet" href="css/home.css" type="text/css">
+    <link rel="stylesheet" href="css/home1.css" type="text/css">
 </head>
 
 <body>
@@ -93,7 +93,7 @@ if (isset($_GET['action']) && $_GET['action'] == 'logout') {
 
                 <div class="col-lg-3">
                     <div class="header__logo">
-                        <a href="../PTUD_N10_DEMO/indexuser.php"><img src="../PTUD_N10_DEMO/img/logo.png" alt=""></a>
+                       <a href="./index.php"><img src="./img/logobr.jpg" alt=""></a>
                     </div>
                 </div>
 
@@ -141,11 +141,10 @@ if (isset($_GET['action']) && $_GET['action'] == 'logout') {
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <div class="hero__item set-bg" data-setbg="img/bgmypham1.jpg">
+                    <div class="hero__item set-bg" data-setbg="img/banhmi.jpg">
                         <div class="hero__text">
-                            <span>COSMETICS</span>
-                            <h2>MỸ PHẨM<br>100% An toàn cho da</h2>
-                            <p>Có sẵn nhận và giao hàng miễn phí</p>
+                        <span>OMI BREAD</span>
+                            <h2>Bánh mì OMi<br>Thơm ngon mê li</p>
                             <a href="shop.php" class="primary-btn">XEM NGAY</a>
                         </div>
                     </div>
